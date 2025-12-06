@@ -2,10 +2,7 @@
 
 
 <p align="center">
-  ![iconn](https://github.com/user-attachments/assets/8713d14a-dfbe-4288-8b01-002dc7cd6383)
-
-
-  ![Uploading iconn.jpg…]()
+ 
 
 </p>
 
