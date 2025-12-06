@@ -2,7 +2,11 @@
 
 
 <p align="center">
- 
+  <img src="https://github.com/user-attachments/assets/1f184524-47f3-463f-a65b-2d9cb43789d4" width="250" height="250" alt="OpenCardboard Logo">
+</p>
+  
+
+
 
 </p>
 
