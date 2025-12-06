@@ -18,4 +18,4 @@
 
 
 > [!IMPORTANT]
-> This plugin is **not affiliated with or endorsed by Google**.
+> This SDK is **not affiliated with or endorsed by Google**.
